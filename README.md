@@ -1,6 +1,6 @@
-# goit-markup-hw-04
+# goit-markup-hw-05
 
 What's new?
-- background added;
-- svg icons added;
-- box-shadows added.
+- positioning of elements;
+- animated on hover/focus including shadows, colors, svg fills;
+- modal window linked with js script on "Click to order" button.
